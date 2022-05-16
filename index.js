@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jhkjklgjkleqwjhkwerjhketejhktejhkr3jhkqerjhktjhkerjhkgss
 
 new data
@@ -7,3 +8,9 @@ jhdhdjfjdjhkddjhjhfjhkejhefjhdjhwe
 jkljhldjhlfjljklfsdjlfgjlrhgsafjkltrhjlgwejhlawejkrejkge
 fjhlkdfjhkdfjhsdfjhjhsjhfj 
 
+=======
+aKSDJHKHKJJHCB,ASJSB,J,DJHLJHLEJHWEJHJHWJHKJJHKLDJHJHDJH
+JHLDJHKLDJHDJHLJHDSJHDJHSDSDCWDJHKLCDJCDJHCE
+;JKSJKLDSDJHLCDJHDJKHWVJHKW
+JHLDCJHDHKJKLVJHL VBJCLXPODPOF
+>>>>>>> saad
